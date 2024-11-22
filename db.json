@@ -1,0 +1,38 @@
+{
+  events: [
+        {
+          id: 2637456,
+          category: "bien-etre animal",
+          title: "Journée d'adoption des chats",
+          description: "Trouvez votre nouvel ami...",
+          localistaion: "Meow Town",
+          date: "28 January 2022",
+          time: "13:00",
+          petsAllowed: true,
+          organizer: "Foulen Ben Foulen",
+        },
+        {
+          id: 8807456,
+          category: "nourriture",
+          title: "Jardinage communautaire",
+          description:
+            "Rejoindrz-nous alors que nous nous occupons des plates comestibles de la communauté.",
+          localistaion: "El Nasr",
+          date: "14 Mars 2022",
+          time: "10:00",
+          petsAllowed: true,
+          organizer: "dora lamin",
+        },
+        {
+          id: 2007456,
+          category: "nettoyage",
+          title: "nettoyage de plage",
+          description: "aidez a ramasser les ordure le long du rivage.",
+          localistaion: "plage le corniche",
+          date: "22 January 2022",
+          time: "11:00",
+          petsAllowed: false,
+          organizer: "cheick hafedh",
+        },
+      ]
+}
